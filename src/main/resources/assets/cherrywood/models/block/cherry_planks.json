@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+      "all": "cherrywood:block/cherry_planks"
+    }
+  }

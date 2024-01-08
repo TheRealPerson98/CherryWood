@@ -1,0 +1,22 @@
+{
+
+  "item.cherrywood.cherry_sign": "Cherry Sign",
+  "item.cherrywood.cherry_boat": "Cherry Boat",
+  "block.cherrywood.cherry_stairs": "Cherry Stairs",
+  "block.cherrywood.cherry_fence": "Cherry Fence",
+  "block.cherrywood.cherry_fence_gate": "Cherry Fence Gate",
+  "block.cherrywood.cherry_slab": "Cherry Slab",
+  "block.cherrywood.cherry_button": "Cherry Button",
+  "block.cherrywood.cherry_pressure_plate": "Cherry Pressure Plate",
+  "block.cherrywood.cherry_door": "Cherry Door",
+  "block.cherrywood.cherry_trapdoor": "Cherry Trapdoor",
+  "block.cherrywood.cherry_log": "Cherry Log",
+  "block.cherrywood.cherry_planks": "Cherry Planks",
+  "block.cherrywood.cherry_wood": "Cherry Wood",
+  "block.cherrywood.stripped_cherry_log": "Stripped Cherry Log",
+  "block.cherrywood.stripped_cherry_wood": "Stripped Cherry Wood",
+  "block.cherrywood.cherry_sapling": "Cherry Sapling",
+  "block.cherrywood.cherry_leaves": "Cherry Leaves",
+  "block.cherrywood.cherry_wall_sign": "Cherry Wall Sign",
+  "itemGroup.cherryWoodTab": "Cherry Wood"
+}

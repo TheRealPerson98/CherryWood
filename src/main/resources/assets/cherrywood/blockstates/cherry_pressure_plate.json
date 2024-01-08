@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "powered=false": { "model": "cherrywood:block/cherry_pressure_plate" },
+    "powered=true": { "model": "cherrywood:block/cherry_pressure_plate_down" }
+  }
+}

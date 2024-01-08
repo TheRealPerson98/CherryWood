@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "cherrywood:block/cherry_slab"
+    },
+    "type=double": {
+      "model": "cherrywood:block/cherry_planks"
+    },
+    "type=top": {
+      "model": "cherrywood:block/cherry_slab_top"
+    }
+  }
+}

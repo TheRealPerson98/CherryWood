@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "#S#",
+    "#S#"
+  ],
+  "key": {
+    "#": {
+      "item": "cherrywood:cherry_planks"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "cherrywood:cherry_fence",
+    "count": 3
+  }
+}

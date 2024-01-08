@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "cherrywood:cherry_planks"
+    }
+  },
+  "result": {
+    "item": "cherrywood:cherry_stairs",
+    "count": 4
+  }
+}
